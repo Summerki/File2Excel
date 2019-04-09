@@ -1,0 +1,7 @@
+C:\Users\Summerki\Desktop\活\ReadFileDemo\ReadFileDemo\bin\Debug\ReadFileDemo.exe.config
+C:\Users\Summerki\Desktop\活\ReadFileDemo\ReadFileDemo\bin\Debug\ReadFileDemo.exe
+C:\Users\Summerki\Desktop\活\ReadFileDemo\ReadFileDemo\bin\Debug\ReadFileDemo.pdb
+C:\Users\Summerki\Desktop\活\ReadFileDemo\ReadFileDemo\obj\Debug\ReadFileDemo.csprojAssemblyReference.cache
+C:\Users\Summerki\Desktop\活\ReadFileDemo\ReadFileDemo\obj\Debug\ReadFileDemo.csproj.CoreCompileInputs.cache
+C:\Users\Summerki\Desktop\活\ReadFileDemo\ReadFileDemo\obj\Debug\ReadFileDemo.exe
+C:\Users\Summerki\Desktop\活\ReadFileDemo\ReadFileDemo\obj\Debug\ReadFileDemo.pdb

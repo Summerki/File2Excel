@@ -1,0 +1,7 @@
+C:\Users\Summerki\Desktop\活\TestReg\TestReg\bin\Debug\TestReg.exe.config
+C:\Users\Summerki\Desktop\活\TestReg\TestReg\bin\Debug\TestReg.exe
+C:\Users\Summerki\Desktop\活\TestReg\TestReg\bin\Debug\TestReg.pdb
+C:\Users\Summerki\Desktop\活\TestReg\TestReg\obj\Debug\TestReg.csprojAssemblyReference.cache
+C:\Users\Summerki\Desktop\活\TestReg\TestReg\obj\Debug\TestReg.csproj.CoreCompileInputs.cache
+C:\Users\Summerki\Desktop\活\TestReg\TestReg\obj\Debug\TestReg.exe
+C:\Users\Summerki\Desktop\活\TestReg\TestReg\obj\Debug\TestReg.pdb
